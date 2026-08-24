@@ -1,7 +1,7 @@
 <div align="center">
 
 # ProMediConv
-**Towards Proactive Conversational Mediation Agents for Multi-Party Dispute Resolution**
+**Benchmarking Proactive Conversational Agents in Chinese Legal Dispute Mediation**
 
 [Dataset (Coming Soon)] • [Paper (Coming Soon)] • [License](./LICENSE)
 
@@ -10,8 +10,9 @@
 ---
 
 ### 📢 NEWS
-- We have released the codebase and test set of ProMediConv dataset for reference! The full version of the ProMediConv dataset  will be released in this repository after the camera-ready stage.
+- [2026.03] We have released the codebase and test set of ProMediConv dataset for reference! 
 
+- [2026.08] Our paper 'ProMediConv: Benchmarking Proactive Conversational Agents in Chinese Legal Dispute Mediation' has been accepted to EMNLP 2026!
 ---
 
 ### 📂 Project Structure
