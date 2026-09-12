@@ -1,7 +1,7 @@
 <div align="center">
 
 # ProMediConv
-**Benchmarking Proactive Conversational Agents in Chinese Legal Dispute Mediation**
+**Benchmarking Proactive Conversational Agents in Legal Dispute Mediation**
 
 [Dataset (Coming Soon)] • [Paper (Coming Soon)] • [License](./LICENSE)
 
