@@ -12,7 +12,7 @@
 ### 📢 NEWS
 - [2026.03] We have released the codebase and test set of ProMediConv dataset for reviewers' reference! 
 
-- [2026.08] Our paper **ProMediConv: Benchmarking Proactive Conversational Agents in Chinese Legal Dispute Mediation** has been accepted to EMNLP 2026!
+- [2026.08] Our paper **ProMediConv: Benchmarking Proactive Conversational Agents in Legal Dispute Mediation** has been accepted to EMNLP 2026!
 ---
 
 ### 📂 Project Structure
